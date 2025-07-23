@@ -1,4 +1,5 @@
-Projeyi Çalıştırma
+##Projeyi Çalıştırma
+
 1- Visual Studio 2022 ile projeyi açın.
 2- Gerekli NuGet paketlerini yükleyin (gerekirse).
 3- Projeyi Başlat (F5) tuşuyla çalıştırın.
