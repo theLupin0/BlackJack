@@ -1,6 +1,7 @@
-2. Visual Studio 2022 ile projeyi açın.
-3. Gerekli NuGet paketlerini yükleyin (gerekirse).
-4. Projeyi __Başlat__ (F5) ile çalıştırın.
+Projeyi Çalıştırma
+1- Visual Studio 2022 ile projeyi açın.
+2- Gerekli NuGet paketlerini yükleyin (gerekirse).
+3- Projeyi Başlat (F5) tuşuyla çalıştırın.
 
 ## Kullanım
 
@@ -26,4 +27,6 @@ Katkıda bulunmak için lütfen bir pull request gönderin veya issue açın.
 
 ## Lisans
 
-Bu proje lisans sahibi değildir. Oluşacak her türlü durum kullanıcıya aittir. Lütfen kullanım koşullarını dikkatlice okuyun.
+Bu proje şu anda herhangi bir lisans altında değildir.
+Uygulamayı kullanırken oluşabilecek tüm sonuçlardan kullanıcı sorumludur.
+Lütfen kullanım koşullarını dikkatlice okuyun.
